@@ -8,6 +8,17 @@
  the needs of users. Constantly staying updated with the latest
  technologies, I strive to deliver high-quality code and contribute to
  creating seamless user experiences.
+ 
+  🔭 I’m currently working on ...Js, Ruby and React js.
+- 🌱 I’m currently learning ...Node js and mongoDb
+- 👯 I’m looking to collaborate on ...open source projects
+-  💬 Ask me about ...Front end development and a bit of backend.
+- 📫 How to reach me: ... 
+- twitter - https://twitter.com/mike peace
+- discord - https://discord.com/channels/@me
+- linkedin - https://www.linkedin.com/in/mike-mutuku-oa23a1bb
+- behance - https://www.behance.net/mikepeace1
+- ⚡ Fun fact: ...I'm a great gamer
 <!--
 **Quantumania23/Quantumania23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
