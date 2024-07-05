@@ -10,7 +10,7 @@ the needs of users. Constantly staying updated with the latest
 creating seamless user experiences.
  
   🔭 I’m currently working on Ruby and Unity.
-- 🌱 I’m currently learning ...Node js and MongoDB
+- 🌱 I’m currently learning ...Unreal and 3Js
 - 👯 I’m looking to collaborate on ... open-source projects
 -  💬 Ask me about ...Front end development and a bit of backend.
 - 📫 How to reach me: ... 
