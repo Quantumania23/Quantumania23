@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm a great gamer
 -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nextjs,python,css,kotlin,nodejs,figma,react,flutter,dart,git,3js,html,sql)](https://skillicons.dev)
