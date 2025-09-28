@@ -9,27 +9,14 @@ the needs of users. Constantly staying updated with the latest
  technologies, I strive to deliver high-quality code and contribute to
 creating seamless user experiences.
  
-  🔭 I’m currently working on Ruby and Unity.
-- 🌱 I’m currently learning ...Unreal and 3Js
+  🔭 I’m currently working on my Gaming skills for the 2028 E-sports Olympics.
+- 🌱 I’m currently learning ...Web3 and Godot
 - 👯 I’m looking to collaborate on ... open-source projects
--  💬 Ask me about ...Front end development and a bit of backend.
+-  💬 Ask me about ... Front-end development and a bit of backend.
 - 📫 How to reach me: ... 
-- Twitter - https://twitter.com/mike peace
+- Twitter - https://twitter.com/mikepeace981
 - discord - https://discord.com/channels/@me
 - linkedin - https://www.linkedin.com/in/mike-mutuku-oa23a1bb
-- behance - https://www.behance.net/mikepeace1
 - ⚡ Fun fact: I'm a great gamer
-<!--
-**Quantumania23/Quantumania23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...Js and React js
-- 🌱 I’m currently learning ...Ruby and Unity
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...Front end development
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm a great gamer
--->
 [![My Skills](https://skillicons.dev/icons?i=js,nextjs,python,css,kotlin,nodejs,figma,react,flutter,dart,git,3js,html,sql)](https://skillicons.dev)
